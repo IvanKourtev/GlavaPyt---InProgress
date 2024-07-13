@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace GlavaPyt.Pages
+namespace GlavaPyt.Views.Home
 {
     public class IndexModel : PageModel
     {
