@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\source\\repos\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj": {}
+    "C:\\Users\\Ivan\\source\\repos\\Glava_Pyt\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\source\\repos\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj": {
+    "C:\\Users\\Ivan\\source\\repos\\Glava_Pyt\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\Glava_Pyt\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj",
         "projectName": "GlavaPyt",
-        "projectPath": "C:\\Users\\Ivan\\source\\repos\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj",
+        "projectPath": "C:\\Users\\Ivan\\source\\repos\\Glava_Pyt\\GlavaPyt\\GlavaPyt\\GlavaPyt.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\source\\repos\\GlavaPyt\\GlavaPyt\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\source\\repos\\Glava_Pyt\\GlavaPyt\\GlavaPyt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
