@@ -2,7 +2,7 @@
 
 namespace GlavaPyt.Controllers
 {
-    public class Home : Microsoft.AspNetCore.Mvc.Controller
+    public class AboutUsController : Controller
     {
         public IActionResult Index()
         {

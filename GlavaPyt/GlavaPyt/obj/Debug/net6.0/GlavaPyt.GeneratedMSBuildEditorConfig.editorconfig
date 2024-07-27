@@ -16,16 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Ivan\source\repos\Glava_Pyt\GlavaPyt\GlavaPyt
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Ivan/source/repos/Glava_Pyt/GlavaPyt/GlavaPyt/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Ivan/source/repos/Glava_Pyt/GlavaPyt/GlavaPyt/Views/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Ivan/source/repos/Glava_Pyt/GlavaPyt/GlavaPyt/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Ivan/source/repos/Glava_Pyt/GlavaPyt/GlavaPyt/Views/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Ivan/source/repos/Glava_Pyt/GlavaPyt/GlavaPyt/Views/Shared/_ValidationScriptsPartial.cshtml]
