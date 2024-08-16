@@ -1,18 +1,37 @@
-html {
-  font-size: 14px;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.container {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+main {
+    flex: 1;
 }
-
 body {
-  margin-bottom: 60px;
+    background: linear-gradient(to bottom, rgba(167,207,223,1) 0%, rgba(35,83,138,1) 62%, rgba(35,83,138,1) 62%, rgba(35,83,138,1) 68%);
+    background-attachment: fixed;
 }
+
+
+
+/*h1 {
+    font-size: 3em;
+    font-weight: bold;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+}*/
