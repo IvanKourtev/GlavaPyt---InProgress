@@ -39,7 +39,7 @@ body {
     text-shadow: 1px 1px 2px #333;
 }
 
-.email {
+/*.email {
     font-size: 1.5em;
     color: #333;
     text-decoration: none;
@@ -48,14 +48,14 @@ body {
     .email:hover {
         color: #007bff;
         text-decoration: underline;
-    }
+    }*/
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 75px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 2px;
+    margin: 20px 2px;
 }
 
     .fa:hover {
