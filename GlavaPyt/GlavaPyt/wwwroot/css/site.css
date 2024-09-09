@@ -13,9 +13,14 @@ html, body {
 main {
     flex: 1;
 }
-body {
+/*body {
     background: linear-gradient(to bottom, rgba(167,207,223,1) 0%, rgba(35,83,138,1) 62%, rgba(35,83,138,1) 62%, rgba(35,83,138,1) 68%);
     background-attachment: fixed;
+}*/
+body {
+    background: linear-gradient(to bottom, #87CEEB, #ffffff);
+    height: 100vh;
+    margin: 0;
 }
 
 body {
